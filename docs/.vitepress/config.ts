@@ -1,7 +1,7 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
-  title: "REA",
+  title: "Rea_saharrson2100",
   description:
     "Reverse engineer binaries, applications, and runtime behavior with one CLI and MCP server.",
   lang: "en-US",

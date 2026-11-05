@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: REA
+  name: Rea_saharrson2100
   text: Reverse Engineer Anything
   tagline: Understand binaries, applications, and runtime behavior with one CLI and MCP server.
   actions:
